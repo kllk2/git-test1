@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("master branch");
         System.out.println("hot-fix");
+        System.out.println("修改提交远程");
     }
 
 
